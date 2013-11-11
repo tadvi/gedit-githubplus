@@ -5,7 +5,7 @@
   <_description>GitHubPlus Theme - Generated and hand edited from textmate theme</_description>
   
   <style name="search-match" background="#f0f090" underline="true"/>
-  <style name="selection" foreground="#f0f0f5" background="#428bca"/>
+  <style name="selection" foreground="#f0f0f0" background="#DD4814"/>  <!-- foreground="#f0f0f5" background="#428bca" -->
   
   <style name="text" foreground="#000000" background="#f0f0f8"/>
 
