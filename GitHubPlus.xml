@@ -30,7 +30,7 @@
   <style name="def:function" foreground="#990000" bold="true"/>
   <style name="def:identifier" foreground="#108888"/>
   <style name="def:keyword" foreground="#000000" bold="true"/>
-  <style name="def:note" foreground="#999988" italic="true"/>
+  <style name="def:note" foreground="#999988" italic="true" bold="true"/>
   <style name="def:number" foreground="#009999"/>
   <style name="def:operator" foreground="#000000" bold="true"/>
   <style name="def:preprocessor" foreground="#000000" bold="true"/>
